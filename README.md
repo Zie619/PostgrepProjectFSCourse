@@ -15,7 +15,7 @@ This project is a web application built using **Node.js** and **Express.js** to 
 ## Installation:
 1. Clone this repository to your local machine:
     ```bash
-    git clone <repository-url>
+    git clone https://github.com/Zie619/PostgrepProjectFSCourse.git
     ```
    
 2. Navigate into the project directory:
